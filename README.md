@@ -1,1 +1,1 @@
-Hi! I'm [Caleb Hamilton](https://calebhamilton.org), a student at UW-Madison studying CS and Math.
+Hi! I'm [Caleb Hamilton](https://calebhamilton.org), a Computer Science and Math student at the University of Wisconsin - Madison. I love learning and building things, and I’m particularly interested in systems programming, AI, and web/mobile development. Feel free to reach out at `me [at] calebhamilton.org`.
